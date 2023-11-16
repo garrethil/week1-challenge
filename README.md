@@ -1,4 +1,4 @@
-# Horiseon 
+# Horiseon Brand Marketing
 
 ## Description
 
@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-The page shows brand marketing and search-engine optimization information in an accessable manner.
+The page shows brand marketing and search-engine optimization information in an organized and accessable manner.
 
 ## Credits
 
